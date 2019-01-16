@@ -1,9 +1,0 @@
-server:
-  port: 9873
-spring:
-  application:
-    name: eureka-client
-eureka:
-  client:
-    service-url:
-      defaultZone: http://peer1:9871/eureka/
